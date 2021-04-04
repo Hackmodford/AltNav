@@ -12,7 +12,7 @@ this is a navigation approach that does not use a platform view presenter.
 
 The goal is to provide all the benefits of ViewModel to ViewModel navigation while allowing the view layer to worry about presentation.
 
-#How to Use
+## How to Use
 
 Implement `IMvxNavigationViewModel` in your Views.
 
