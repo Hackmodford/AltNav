@@ -3,7 +3,7 @@ using AltNav.Core.Services;
 using MvvmCross.Platforms.Ios.Views;
 using MvvmCross.ViewModels;
 
-namespace AltNav.iOS.Views
+namespace AltNav.iOS.Services
 {
     public class MvxIosViewFactory : IMvxViewFactory
     {

@@ -1,6 +1,7 @@
 ﻿using MvvmCross.Platforms.Ios.Core;
 using AltNav.Core;
 using AltNav.Core.Services;
+using AltNav.iOS.Services;
 using AltNav.iOS.Views;
 using MvvmCross;
 using MvvmCross.IoC;

@@ -65,11 +65,14 @@
   <ItemGroup>
     <Compile Include="Linker\LinkerPleaseInclude.cs" />
     <Compile Include="MainApplication.cs" />
+    <Compile Include="Services\MvxAndroidViewFactory.cs" />
     <Compile Include="Setup.cs" />
     <Compile Include="Views\BaseActivity.cs" />
     <Compile Include="Views\BaseFragment.cs" />
     <Compile Include="Views\Main\MainContainerActivity.cs" />
     <Compile Include="Views\Main\MainFragment.cs" />
+    <Compile Include="Views\Main\TestActivity.cs" />
+    <Compile Include="Views\Main\TestFragment.cs" />
     <Compile Include="Views\Splash\SplashActivity.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -91,6 +94,7 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\fragment_main.axml" />
+    <AndroidResource Include="Resources\layout\fragment_test.xml" />
     <AndroidResource Include="Resources\layout\layout_toolbar.axml" />
     <AndroidResource Include="Resources\layout\activity_main_container.axml" />
   </ItemGroup>

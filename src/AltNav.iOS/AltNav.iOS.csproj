@@ -77,9 +77,9 @@
     <Compile Include="Linker\LinkerPleaseInclude.cs" />
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
+    <Compile Include="Services\MvxIosViewFactory.cs" />
     <Compile Include="Setup.cs" />
     <Compile Include="Styles\ColorPalette.cs" />
-    <Compile Include="Views\MvxIosViewFactory.cs" />
     <Compile Include="Views\TestViewController.cs" />
     <ImageAsset Include="Resources\Media.xcassets\AppIcons.appiconset\Icon-87.png">
       <Visible>false</Visible>
